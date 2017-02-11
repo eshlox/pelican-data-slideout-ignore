@@ -7,6 +7,7 @@ This plugin adds data-slideout-ignore attribute to all div elements with
 someone scrolls code block horizontally on tablet/mobile.
 
 https://github.com/Mango/slideout
+
 https://github.com/Mango/slideout#data-slideout-ignore-attribute
 
 https://github.com/getpelican/pelican
